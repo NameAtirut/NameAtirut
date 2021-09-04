@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atirut Boribalburephan (or Name)
-- 👀 I’m interested in Bioinformatics
+- 👀 I’m interested in Applied Machine Leaning and AI 
 - 🌱 I’m currently pursueing Bachelor of Biomedical Engineering (BEng)
 - 📫 Contact : atirutbor1@gmail.com
 

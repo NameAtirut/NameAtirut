@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Atirut Boribalburephan (or Name)
-- 👀 Interested in Applied Machine Leaning and AI for Biomedical Applications
 - Currently working on Synthetic data for Computer Vision in Diagnostics
 - 🌱 BEng Biomedical Engineering @ Mahidol Uni X Uni of Strathclyde
 - 📫 Contact : atirutbor1@gmail.com

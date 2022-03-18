@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atirut Boribalburephan (or Name)
-- Currently working on Synthetic data for Computer Vision in Diagnostics
+- Currently working on Synthetic data for Computer Vision in Eye Diagnostics
 - 🌱 BEng Biomedical Engineering @ Mahidol Uni X Uni of Strathclyde
 - 📫 Contact : atirutbor1@gmail.com
 

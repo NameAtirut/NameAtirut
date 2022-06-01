@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m Atirut Boribalburephan (or Name)
-- Deep Learning, Computer Vision, NLP
+- **🤖 Deep Learning | Computer Vision | NLP**
 - 🌱 BEng Biomedical Engineering @ Mahidol University (Thailand) & University of Strathclyde (UK)
 - 📫 Contact : atirutbor1@gmail.com
 

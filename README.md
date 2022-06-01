@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Atirut Boribalburephan (or Name)
 - Deep Learning, Computer Vision, NLP
-- 🌱 BEng Biomedical Engineering @ Mahidol Uni X Uni of Strathclyde
+- 🌱 BEng Biomedical Engineering @ Mahidol University (Thailand) & University of Strathclyde (UK)
 - 📫 Contact : atirutbor1@gmail.com
 
 <code><img height="20" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>

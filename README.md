@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nameatirut&label=Profile%20views&color=0e75b6&style=flat" alt="nameatirut" /> </p>
 
-- 🔭 I’m currently working on **OCR, ASR, DL for Biomedical Images**
+- 🔭 I’m currently working on **OCR, ASR, and Deep Learning for Biomedical Data**
 - **🤖 Deep Learning | Computer Vision | NLP**
 
 <h3 align="left">Connect with me:</h3>

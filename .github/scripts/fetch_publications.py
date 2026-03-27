@@ -32,19 +32,30 @@ def find_author_id(name: str) -> str | None:
     for author in data.get("data", []):
         if author.get("name", "").lower() == name.lower():
             return author["authorId"]
-    # fallback: first result
-    results = data.get("data", [])
-    return results[0]["authorId"] if results else None
+    # No exact match found — do not fall back to an unrelated author
+    return None
 
 
 def fetch_papers(author_id: str) -> list[dict]:
     url = (
         f"https://api.semanticscholar.org/graph/v1/author/{author_id}/papers"
-        f"?fields=title,year,venue,externalIds,openAccessPdf,publicationDate"
+        f"?fields=title,year,venue,externalIds,openAccessPdf,publicationDate,authors"
         f"&limit=10&sort=publicationDate:desc"
     )
     data = fetch_json(url)
-    return data.get("data", [])
+    papers = data.get("data", [])
+    # Validate each paper: keep only those that list AUTHOR_NAME as an author
+    validated = [p for p in papers if _author_is_listed(p, AUTHOR_NAME)]
+    return validated
+
+
+def _author_is_listed(paper: dict, name: str) -> bool:
+    """Return True if *name* appears in the paper's author list."""
+    name_lower = name.lower()
+    for author in paper.get("authors", []):
+        if author.get("name", "").lower() == name_lower:
+            return True
+    return False
 
 
 def paper_to_markdown(paper: dict) -> str:

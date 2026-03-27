@@ -3,7 +3,12 @@ NameAtirut/NameAtirut is a ✨ special ✨ repository because its `README.md` (t
 --->
 
 <h1 align="center">Hi 👋, I'm Atirut Boribalburephan (NAME)</h1>
-<h3 align="center">ML Engineer & Researcher · AI-enabled Healthcare · Mahidol University × University of Strathclyde</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=ML+Engineer+%26+Researcher;AI-enabled+Healthcare;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Mahidol+University+%C3%97+University+of+Strathclyde;Building+Thai+ASR+%26+OCR+at+Looloo+Technology" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nameatirut&label=Profile%20views&color=0e75b6&style=flat" alt="nameatirut" />
@@ -22,14 +27,13 @@ NameAtirut/NameAtirut is a ✨ special ✨ repository because its `README.md` (t
 
 ### 📚 Publications
 
-- **Thonburian Whisper: Robust Fine-tuned and Distilled Whisper for Thai**
-  *ICNLSP 2024 (ACL Anthology)* · [Paper](https://aclanthology.org/2024.icnlsp-1.17) · [GitHub](https://github.com/biodatlab/thonburian-whisper)
+> Auto-updated weekly via [Semantic Scholar](https://www.semanticscholar.org/) · Powered by [GitHub Actions](.github/workflows/update-publications.yml)
 
-- **Explainable AI Identifies and Localizes Left Ventricular Scar in Hypertrophic Cardiomyopathy using 12-Lead ECG**
-  *Scientific Reports, 2025* · [Paper](https://www.nature.com/articles/s41598-025-09282-7)
-
-- **Myocardial Scar and LVEF Classification from ECG Images using Multi-task Deep Learning**
-  *Scientific Reports, 2024* · [PubMed](https://pubmed.ncbi.nlm.nih.gov/38553581/)
+<!-- PUBLICATIONS:START -->
+- **Thonburian Whisper: Robust Fine-tuned and Distilled Whisper for Thai** · *ICNLSP 2024 (ACL Anthology)* · [Paper](https://aclanthology.org/2024.icnlsp-1.17) · [GitHub](https://github.com/biodatlab/thonburian-whisper)
+- **Explainable AI Identifies and Localizes Left Ventricular Scar in Hypertrophic Cardiomyopathy using 12-Lead ECG** · *Scientific Reports, 2025* · [Paper](https://www.nature.com/articles/s41598-025-09282-7)
+- **Myocardial Scar and LVEF Classification from ECG Images using Multi-task Deep Learning** · *Scientific Reports, 2024* · [PubMed](https://pubmed.ncbi.nlm.nih.gov/38553581/)
+<!-- PUBLICATIONS:END -->
 
 ---
 

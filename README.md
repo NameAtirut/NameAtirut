@@ -30,9 +30,11 @@ NameAtirut/NameAtirut is a ✨ special ✨ repository because its `README.md` (t
 > Auto-updated weekly via [Semantic Scholar](https://www.semanticscholar.org/) · Powered by [GitHub Actions](.github/workflows/update-publications.yml)
 
 <!-- PUBLICATIONS:START -->
-- **Thonburian Whisper: Robust Fine-tuned and Distilled Whisper for Thai** · *ICNLSP 2024 (ACL Anthology)* · [Paper](https://aclanthology.org/2024.icnlsp-1.17) · [GitHub](https://github.com/biodatlab/thonburian-whisper)
-- **Explainable AI Identifies and Localizes Left Ventricular Scar in Hypertrophic Cardiomyopathy using 12-Lead ECG** · *Scientific Reports, 2025* · [Paper](https://www.nature.com/articles/s41598-025-09282-7)
-- **Myocardial Scar and LVEF Classification from ECG Images using Multi-task Deep Learning** · *Scientific Reports, 2024* · [PubMed](https://pubmed.ncbi.nlm.nih.gov/38553581/)
+<!-- Updated: 2026-04-06 via Semantic Scholar -->
+- **Correction: Myocardial scar and left ventricular ejection fraction classification for electrocardiography image using multi-task deep learning** · *Scientific Reports*, 2025 · [Semantic Scholar](https://www.semanticscholar.org/paper/1cb5ef4273284fec6f5eb05775b22c06f895fbf5) · [DOI](https://doi.org/10.1038/s41598-025-18185-6) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40983619/)
+- **Thonburian Whisper: Robust Fine-tuned and Distilled Whisper for Thai** · *International Conference on Natural Language and Speech Processing*, 2024 · [Semantic Scholar](https://www.semanticscholar.org/paper/e69c5a682cbff220e584344e166c2686b6067c61)
+- **Preliminary Assessment of Three Protocols for the Screening of Amblyopia Through Monte Carlo Simulation** · *International Instrumentation and Measurement Technology Conference*, 2024 · [Semantic Scholar](https://www.semanticscholar.org/paper/f84ad7a7efcaaab7f6e4df5912fe03cabeb78bfb) · [DOI](https://doi.org/10.1109/I2MTC60896.2024.10560914)
+- **Myocardial scar and left ventricular ejection fraction classification for electrocardiography image using multi-task deep learning** · *Scientific Reports*, 2024 · [Semantic Scholar](https://www.semanticscholar.org/paper/fb47913f1fdfb0b49dbaa670e3fce821e436a0a4) · [PDF](https://www.nature.com/articles/s41598-024-58131-6.pdf) · [DOI](https://doi.org/10.1038/s41598-024-58131-6) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/38553581/)
 <!-- PUBLICATIONS:END -->
 
 ---

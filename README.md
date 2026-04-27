@@ -30,7 +30,7 @@ NameAtirut/NameAtirut is a ✨ special ✨ repository because its `README.md` (t
 > Auto-updated weekly via [Semantic Scholar](https://www.semanticscholar.org/) · Powered by [GitHub Actions](.github/workflows/update-publications.yml)
 
 <!-- PUBLICATIONS:START -->
-<!-- Updated: 2026-04-20 via Semantic Scholar -->
+<!-- Updated: 2026-04-27 via Semantic Scholar -->
 - **Correction: Myocardial scar and left ventricular ejection fraction classification for electrocardiography image using multi-task deep learning** · *Scientific Reports*, 2025 · [Semantic Scholar](https://www.semanticscholar.org/paper/1cb5ef4273284fec6f5eb05775b22c06f895fbf5) · [DOI](https://doi.org/10.1038/s41598-025-18185-6) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40983619/)
 - **Thonburian Whisper: Robust Fine-tuned and Distilled Whisper for Thai** · *International Conference on Natural Language and Speech Processing*, 2024 · [Semantic Scholar](https://www.semanticscholar.org/paper/e69c5a682cbff220e584344e166c2686b6067c61)
 - **Preliminary Assessment of Three Protocols for the Screening of Amblyopia Through Monte Carlo Simulation** · *International Instrumentation and Measurement Technology Conference*, 2024 · [Semantic Scholar](https://www.semanticscholar.org/paper/f84ad7a7efcaaab7f6e4df5912fe03cabeb78bfb) · [DOI](https://doi.org/10.1109/I2MTC60896.2024.10560914)
